@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/*
+!data/.gitkeep
+*.pkl
+*.cbm
+*.pt
+mlruns/
+.env
