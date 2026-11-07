@@ -9,3 +9,5 @@ data/*
 *.pt
 mlruns/
 .env
+.idea/
+*.db
