@@ -11,3 +11,4 @@ mlruns/
 .env
 .idea/
 *.db
+sandbox/
